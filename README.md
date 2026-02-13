@@ -1,11 +1,11 @@
-## Hi there 👋
+
 
 <div align="center">
 
 # Olá! Eu sou Gean 👋
 Desenvolvedor em evolução • Front-end (HTML/CSS/JS/React)
 
-[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=vercel)]([geancesar.io](https://geancesar.io/))
+[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=vercel)](https://geancesar.io/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gean-systems/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gean021216@gmail.com)
 
