@@ -5,9 +5,9 @@
 # Olá! Eu sou Gean 👋
 Desenvolvedor em evolução • Front-end (HTML/CSS/JS/React)
 
-[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=vercel)](SEU_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](SEU_LINK)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=vercel)]([geancesar.io](https://geancesar.io/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gean-systems/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gean021216@gmail.com)
 
 </div>
 
@@ -19,9 +19,9 @@ Desenvolvedor em evolução • Front-end (HTML/CSS/JS/React)
 ---
 
 ## Em destaque
-- ⭐ **Projeto 1:** (link)
-- ⭐ **Projeto 2:** (link)
-- ⭐ **Projeto 3:** (link)
+- ⭐ **Projeto 1:** (https://gean-cesar-da-silva-de-barros.github.io/Projeto-Mec-nica-jonatha/)
+- ⭐ **Projeto 2:** (https://gean-cesar-da-silva-de-barros.github.io/Projeto-Top-Burger/)
+- ⭐ **Projeto 3:** (https://gean-cesar-da-silva-de-barros.github.io/Projeto-Starbucks/)
 
 ---
 
