@@ -3,7 +3,7 @@
 <div align="center">
 
 # Olá! Eu sou Gean 👋
-Desenvolvedor Front-end em evolução, focado em criar interfaces modernas, responsivas e acessíveis. Trabalho com HTML, CSS, JavaScript e React, buscando boas práticas, performance e uma ótima experiência do usuário.
+Desenvolvedor Full stack Júnior, focado em criar interfaces modernas, responsivas e acessíveis. Trabalho com HTML, CSS, JavaScript e React, buscando boas práticas, performance e uma ótima experiência do usuário.
 
 [![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=vercel)](https://gean-cesar-da-silva-de-barros.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gean-systems/)
